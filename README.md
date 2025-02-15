@@ -2,5 +2,6 @@
 
 ### Diabetes Prediction Using 4 Different Datasets
 
-Miguel Garza Gonzalez (T00748356) 
 Dilara Gurler (T00747842)
+
+Miguel Garza Gonzalez (T00748356) 
